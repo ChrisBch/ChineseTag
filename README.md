@@ -3,8 +3,11 @@
 *****************************************************************
 
 This profile includes some small projects that I have implemented.
+
 If you have questions about these projects or are interested in my research, please contact me by email :)
+
 Author: ChenHan Yuan
+
 Email: chris.yuan.ece@gmail.com
 
 *****************************************************************
